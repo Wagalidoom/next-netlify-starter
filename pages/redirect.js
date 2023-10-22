@@ -1,6 +1,6 @@
 export default function Redirect() {
   const openTab= () => {
-    window.open('https://www.agence-morse.fr/','_blank')
+    window.open('https://oncyber.io/','_blank')
   };
 
   return (
