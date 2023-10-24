@@ -6,7 +6,7 @@ export default function Morse() {
     return (
       <div className="container">
         <main style={{width: "100%", padding: 0}}>
-          <button style={{width: "100%", height: "100%", fontSize: "72px"}} onClick={openTab}>Par ici !</button>
+          <button style={{width: "100%", height: "100%", fontSize: "92px"}} onClick={openTab}>Par ici !</button>
         </main>
       </div>
     )
