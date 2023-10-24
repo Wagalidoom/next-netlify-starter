@@ -6,7 +6,7 @@ export default function Cegid() {
     return (
       <div className="container">
         <main style={{width: "100%", padding: 0}}>
-          <button style={{width: "100%", height: "100%", fontSize: "92px"}} onClick={openTab}>Découvrir le dossier complet</button>
+          <button style={{width: "100%", height: "100%", fontSize: "102px", fontWeight: "900", fontFamily: "Montserrat"}} onClick={openTab}>Découvrir le dossier complet</button>
         </main>
       </div>
     )

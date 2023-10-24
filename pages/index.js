@@ -5,6 +5,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Web3.FactureÉlectronique</title>
+        <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'></link>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
