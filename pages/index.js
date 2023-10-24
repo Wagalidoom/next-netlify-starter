@@ -1,14 +1,10 @@
 import Head from "next/head";
 
 export default function Home() {
-  const openTab = () => {
-    window.open("https://www.agence-morse.fr/", "_blank");
-  };
-
   return (
     <div className="container">
       <Head>
-        <title>Morse</title>
+        <title>Web3.FactureÉlectronique</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -16,7 +12,7 @@ export default function Home() {
         <iframe
           width="100%"
           height="100%"
-          src="https://oncyber.io/spaces/vR8qMW42qsj0VtQCqe4r?coords=-12.13x2.82x-17.51x-3.04"
+          src="https://oncyber.io/spaces/ioQBLaPeJacfRWKfIl5d"
         ></iframe>
       </main>
     </div>
