@@ -5,7 +5,10 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Web3.FactureÉlectronique</title>
-        <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'></link>
+        <link
+          href="https://fonts.googleapis.com/css?family=Montserrat"
+          rel="stylesheet"
+        ></link>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -13,7 +16,7 @@ export default function Home() {
         <iframe
           width="100%"
           height="100%"
-          src="https://oncyber.io/spaces/ioQBLaPeJacfRWKfIl5d"
+          src="https://oncyber.io/spaces/UjesGAAPC8MAUsPLS5SE"
         ></iframe>
       </main>
     </div>
