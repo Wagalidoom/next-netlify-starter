@@ -16,7 +16,7 @@ export default function Home() {
         <iframe
           width="100%"
           height="100%"
-          src="https://oncyber.io/spaces/UjesGAAPC8MAUsPLS5SE"
+          src="https://oncyber.io/spaces/ioQBLaPeJacfRWKfIl5d"
         ></iframe>
       </main>
     </div>
